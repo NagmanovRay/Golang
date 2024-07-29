@@ -16,7 +16,7 @@ Contributions are welcome! If you have a Golang project, example, or utility tha
 
 
 Contact
-If you have any questions or suggestions, feel free to open an issue or contact me directly at your-email@example.com.
+If you have any questions or suggestions, feel free to open an issue or contact me directly at ybray.zu@gmail.com.
 
 Happy coding!
 
